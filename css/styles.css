@@ -38,16 +38,18 @@ body {
 }
 .avatar {
   width: 100px;
-  margin-left: 60px;
+  margin-left: 130px;
 }
 form {
   width: 360px;
 }
 form h2 {
   font-size: 2.9rem;
+  text-align: center;
   text-transform: uppercase;
   margin: 15px 0;
   color: rgb(26, 25, 25);
+  
 }
 .input-div {
   position: relative;
